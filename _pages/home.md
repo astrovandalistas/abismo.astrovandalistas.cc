@@ -15,10 +15,12 @@ El abismo en LPM 2013 en el CNA.
 <p style="padding-left: 30px; text-align: justify;"><strong>¿Cuáles fueron las detonadores de las movilizaciones en todo el país?</strong></p>
 <p style="padding-left: 30px; text-align: justify;"><strong>¿Qué sucedió después de las movilizaciones del 2012 en México?</strong></p>
 <p style="padding-left: 30px; text-align: justify;"><strong>¿Dónde estamos ahora?</strong></p>
-<p style="text-align: justify;">Te invitamos a responder estas preguntas a través de fragmentos de audio y video que podrás compartir por medio de este sitio web.</p>
+<p style="text-align: justify;">Te invitamos a responder estas preguntas a través de fragmentos de audio y video que podrás compartir por medio de una plataforma web.</p>
 
 <p style="text-align: justify;">En las redes sociales enviamos un tweet con el hastag #ELABISMO. A partir de estos materiales construiremos un video-ensayo en tiempo real que recopilará los diversos puntos de vista que conforman nuestra memoria social.</p>
 
+{% comment %}
 <script type="text/javascript" src="//form.jotform.co/jsform/30227429873862"></script>
 
 <strong>No cierres tu navegador hasta que se confirme que el archivo fue enviado </strong>
+{% endcomment %}

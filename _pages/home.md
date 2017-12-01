@@ -4,7 +4,7 @@ title: 'Construyamos Nuestra Memoria'
 permalink: /
 ---
 <div class="video-wrapper video-wrapper-16x9">
-  <iframe src="http://www.youtube.com/embed/5GKMP8WdPuM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+  <iframe src="//www.youtube.com/embed/5GKMP8WdPuM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 El abismo en LPM 2013 en el CNA.
@@ -19,6 +19,6 @@ El abismo en LPM 2013 en el CNA.
 
 <p style="text-align: justify;">En las redes sociales enviamos un tweet con el hastag #ELABISMO. A partir de estos materiales construiremos un video-ensayo en tiempo real que recopilará los diversos puntos de vista que conforman nuestra memoria social.</p>
 
-<script type="text/javascript" src="http://form.jotform.co/jsform/30227429873862"></script>
+<script type="text/javascript" src="//form.jotform.co/jsform/30227429873862"></script>
 
 <strong>No cierres tu navegador hasta que se confirme que el archivo fue enviado </strong>

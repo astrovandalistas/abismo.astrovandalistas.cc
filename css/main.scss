@@ -38,11 +38,12 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
-    padding-top: 10px;
+    padding-top: 20px;
 
     @include media-query(DESKTOP) {
       width: 80%;
       padding-left: 24px;
+      padding-top: 10px;
       flex-direction: row;
     }    
   }
@@ -199,7 +200,17 @@ body {
   }
 
   .post-date {
-    margin: 32px 0;
+    margin: 20px 0;
+    @include media-query(DESKTOP) {
+      margin: 32px 0;
+    }
+  }
+
+  .post-title {
+    margin-top: 20px;
+    @include media-query(DESKTOP) {
+      margin: 0;
+    }
   }
 
   .quotes {
